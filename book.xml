@@ -16,34 +16,34 @@ respective owners.
 
 <mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
 
-  <xi:include href="./bookinfo.xml" />
+<xi:include href="./bookinfo.xml" />
 
-  <article xml:id="discover-linear-algebra-worksheets">
-      <title>Discover Linear Algebra</title>
-      <subtitle>Activity Set</subtitle>
-      <xi:include href="./frontmatter.xml" />
-      <xi:include href="./systems-activity.xml" />
-      <xi:include href="./row-red-activity.xml" />
-      <xi:include href="./applications-activity.xml" />
-      <xi:include href="./matrix-ops-activity.xml" />
-      <xi:include href="./inverses-activity.xml" />
-      <xi:include href="./elem-matrices-activity.xml" />
-      <xi:include href="./special-forms-activity.xml" />
-      <xi:include href="./det-activity.xml" />
-      <xi:include href="./det-by-row-red-activity.xml" />
-      <xi:include href="./more-det-activity.xml" />
-      <xi:include href="./vectors-activity.xml" />
-      <xi:include href="./vector-geom-activity.xml" />
-      <xi:include href="./orthog-activity.xml" />
-      <xi:include href="./system-geom-activity.xml" />
-      <xi:include href="./abstract-vec-spaces-activity.xml" />
-      <xi:include href="./subspaces-activity.xml" />
-      <xi:include href="./linear-indep-activity.xml" />
-      <xi:include href="./basis-coords-activity.xml" />
-      <xi:include href="./dimension-activity.xml" />
-      <xi:include href="./col-row-null-space-activity.xml" />
-      <xi:include href="./eigen-values-vectors-activity.xml" />
-      <xi:include href="./diagonalization-activity.xml" />
+<article xml:id="discover-linear-algebra-worksheets">
+	<title>Discover Linear Algebra</title>
+	<subtitle>Activity Set</subtitle>
+	<xi:include href="./frontmatter.xml" />
+	<xi:include href="./systems-activity.xml" />
+	<xi:include href="./row-red-activity.xml" />
+	<xi:include href="./applications-activity.xml" />
+	<xi:include href="./matrix-ops-activity.xml" />
+	<xi:include href="./inverses-activity.xml" />
+	<xi:include href="./elem-matrices-activity.xml" />
+	<xi:include href="./special-forms-activity.xml" />
+	<xi:include href="./det-activity.xml" />
+	<xi:include href="./det-by-row-red-activity.xml" />
+	<xi:include href="./more-det-activity.xml" />
+	<xi:include href="./vectors-activity.xml" />
+	<xi:include href="./vector-geom-activity.xml" />
+	<xi:include href="./orthog-activity.xml" />
+	<xi:include href="./system-geom-activity.xml" />
+	<xi:include href="./abstract-vec-spaces-activity.xml" />
+	<xi:include href="./subspaces-activity.xml" />
+	<xi:include href="./linear-indep-activity.xml" />
+	<xi:include href="./basis-coords-activity.xml" />
+	<xi:include href="./dimension-activity.xml" />
+	<xi:include href="./col-row-null-space-activity.xml" />
+	<xi:include href="./eigen-values-vectors-activity.xml" />
+	<xi:include href="./diagonalization-activity.xml" />
 </article>
 
 </mathbook>
