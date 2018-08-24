@@ -11,4 +11,6 @@ fi
 rm -f discover-linear-algebra-worksheets.*
 
 xsltproc --xinclude \
-  style.xsl book.xml
+  style-latex.xsl article-latex.xml && \
+pdflatex discover-linear-algebra-worksheets.tex && \
+pdflatex discover-linear-algebra-worksheets.tex

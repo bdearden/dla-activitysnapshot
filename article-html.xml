@@ -20,9 +20,9 @@ respective owners.
 
 <article xml:id="discover-linear-algebra-worksheets">
 	<title>Discover Linear Algebra</title>
-	<subtitle>Activity Set</subtitle>
+	<subtitle>Activity Sets</subtitle>
 	<xi:include href="./frontmatter.xml" />
-	<xi:include href="./systems-activity.xml" />
+	<xi:include href="./systems-activity-TEMP-SECTIONED.xml" />
 	<xi:include href="./row-red-activity.xml" />
 	<xi:include href="./applications-activity.xml" />
 	<xi:include href="./matrix-ops-activity.xml" />
@@ -44,6 +44,7 @@ respective owners.
 	<xi:include href="./col-row-null-space-activity.xml" />
 	<xi:include href="./eigen-values-vectors-activity.xml" />
 	<xi:include href="./diagonalization-activity.xml" />
+	<xi:include href="./backmatter.xml" />
 </article>
 
 </mathbook>

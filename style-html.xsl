@@ -11,9 +11,10 @@
     extension-element-prefixes="exsl date str"
 >
 
-<xsl:import href="./mathbook-xsl.d/mathbook-latex.xsl" />
+<xsl:import href="./mathbook-xsl.d/mathbook-html.xsl" />
 
 <!-- customizations -->
-<xsl:param name="html.knowl.example" select="'no'" />
+<!-- <xsl:param name="numbering.projects.level" select="2" /> -->
+<!-- <xsl:param name="chunk.level" select="2" /> -->
 
 </xsl:stylesheet>
