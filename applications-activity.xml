@@ -23,7 +23,7 @@ respective owners.
 
 <activity xml:id="activity-applications-network">
 	<p> Use the Law of Conservation (in this case, <em>flow in equals flow out</em> at each point of intersection) in the flow network below to set up a system of equations to determine the internal flow rates. (Do not solve your system.) </p>
-	<sidebyside width="33%"><image>
+	<sidebyside width="25%"><image>
 		<description>Flow network</description> <!-- description gets inserted as alt text in html img tag -->
 		<latex-image><xi:include href="applications.d/flownet.tex" parse="text" /></latex-image>
 	</image></sidebyside>

@@ -33,7 +33,7 @@ respective owners.
 	obtuse? <ellipsis />
 	right?
 	</p>
-	<sidebyside width="42%"><image>
+	<sidebyside width="25%"><image>
 		<!-- description gets inserted as alt text in html img tag -->
 		<description>Graph of <m>y=\cos \theta</m>.</description>
 		<latex-image><xi:include href="./shared.d/cosine.tex" parse="text" /></latex-image>
@@ -222,7 +222,7 @@ respective owners.
 	<task xml:id="activity-orthog-distances-point-to-plane">
 		<statement>
 			<p> Using the diagram below as inspiration, come up with a procedure to determine the distance <m>d</m> between a point <m>Q</m> and a plane <m>\Pi</m>. </p>
-			<sidebyside width="100%"><image>
+			<sidebyside width="75%"><image>
 				<!-- description gets inserted as alt text in html img tag -->
 				<description>
 					Diagram illustrating procedure to determine the distance between a point and a plane in space.
